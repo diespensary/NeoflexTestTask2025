@@ -14,5 +14,8 @@ GET http://localhost:8080/calculate
 }
 ```
 ```
-
+{
+    "avgSalary": 85000,
+    "days": "11"
+}
 ```
